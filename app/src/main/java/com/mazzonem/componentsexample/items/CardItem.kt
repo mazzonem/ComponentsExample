@@ -1,10 +1,10 @@
-package com.babylon.componentsexample.items
+package com.mazzonem.componentsexample.items
 
-import com.babylon.componentsexample.R
-import com.babylon.componentsexample.extension.show
-import com.babylon.componentsexample.items.input.ImageValue
-import com.babylon.componentsexample.items.input.ItemAction
-import com.babylon.componentsexample.items.input.StringValue
+import com.mazzonem.componentsexample.R
+import com.mazzonem.componentsexample.extension.show
+import com.mazzonem.componentsexample.items.input.ImageValue
+import com.mazzonem.componentsexample.items.input.ItemAction
+import com.mazzonem.componentsexample.items.input.StringValue
 import com.xwray.groupie.kotlinandroidextensions.GroupieViewHolder
 import com.xwray.groupie.kotlinandroidextensions.Item
 import kotlinx.android.synthetic.main.item_card.view.*

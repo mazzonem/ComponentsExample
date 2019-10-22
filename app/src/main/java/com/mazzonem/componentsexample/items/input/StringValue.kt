@@ -1,4 +1,4 @@
-package com.babylon.componentsexample.items.input
+package com.mazzonem.componentsexample.items.input
 
 import android.widget.TextView
 import androidx.annotation.StringRes

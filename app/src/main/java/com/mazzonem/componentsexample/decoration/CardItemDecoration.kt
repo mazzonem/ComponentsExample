@@ -1,4 +1,4 @@
-package com.babylon.componentsexample.decoration
+package com.mazzonem.componentsexample.decoration
 
 import android.graphics.Rect
 import android.view.View

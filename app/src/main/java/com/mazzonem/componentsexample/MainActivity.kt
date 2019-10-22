@@ -1,15 +1,15 @@
-package com.babylon.componentsexample
+package com.mazzonem.componentsexample
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.babylon.componentsexample.decoration.CardItemDecoration
-import com.babylon.componentsexample.items.ButtonItem
-import com.babylon.componentsexample.items.CardItem
-import com.babylon.componentsexample.items.input.DrawableId
-import com.babylon.componentsexample.items.input.ItemAction
-import com.babylon.componentsexample.items.input.StringId
-import com.babylon.componentsexample.items.input.Text
+import com.mazzonem.componentsexample.decoration.CardItemDecoration
+import com.mazzonem.componentsexample.items.ButtonItem
+import com.mazzonem.componentsexample.items.CardItem
+import com.mazzonem.componentsexample.items.input.DrawableId
+import com.mazzonem.componentsexample.items.input.ItemAction
+import com.mazzonem.componentsexample.items.input.StringId
+import com.mazzonem.componentsexample.items.input.Text
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.Section
 import com.xwray.groupie.kotlinandroidextensions.GroupieViewHolder
